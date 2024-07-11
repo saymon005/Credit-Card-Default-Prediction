@@ -1,2 +1,2 @@
 # Credit-Card-Default-Prediction
-Here I used various Machine Learning algorithm to predict credit card default.
+I used Machine Learning algorithms like Random Forest, Linear Regression, and Support Vector Machine (SVM) to predict credit card defaults.
